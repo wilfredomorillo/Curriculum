@@ -13,14 +13,14 @@ return(
     <h1>{name}</h1>
     <h2 className="Home__title">{ocupacion}</h2>
 <ul>
-    <li>
+    
         <span className="Home__icon">📱🙋🏻‍♂️</span>
         <a href={`Tlf: ${contacto}`} className ='Home__link'>{contacto}</a>
-    </li>
-    <li>
+    
+    
         <span className="Home_icon">📧</span>
         <a href={`Mail: ${email}`}classname='Home__link'>{email}</a>
-    </li>
+    
 </ul>
 </div>
 
