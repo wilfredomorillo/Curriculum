@@ -1,0 +1,29 @@
+@import '../colors/colors';
+
+
+.Curriculo{
+   
+  &__button{
+            
+            background-color: $color-1; /* Green */
+            border: none;
+            color: rgb(18, 10, 10);
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+        &:hover, &--true{
+            color: black;
+            text-decoration: underline;
+        }
+        
+       }
+ }
+ .centro{
+    align-items: center;
+display:flex;
+flex-wrap: wrap;
+justify-content: space-around;
+margin: auto;
+ }
