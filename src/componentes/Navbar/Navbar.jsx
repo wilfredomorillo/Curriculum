@@ -11,6 +11,8 @@ return(
  alt="Logo-programacion" 
  className="Nav__logo"/>
 </Link>
+<Link to ='/home'> <button>home</button>
+</Link>
 <span className="Nav__logo"></span>
 </div>
 <div className="social__logo"> 

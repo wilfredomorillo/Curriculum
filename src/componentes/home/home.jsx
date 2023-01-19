@@ -37,11 +37,13 @@ return(
     <img src={Screenshot_5} alt='Screenshot_5' />
 
 
-    <div>
+    
+</div>
+<div>
         <Link to ='/experiencia'><button className="Curriculo__button"><h2>Experiencia</h2></button></Link>
         <Link to ='/educacion'><button className="Curriculo__button"><h2>Education</h2></button></Link>
+        <Link to ='/porfolio'><button className="Curriculo__button"><h2>Porfolio</h2></button></Link>
     </div>
-</div>
 </div>
  </div>
 
