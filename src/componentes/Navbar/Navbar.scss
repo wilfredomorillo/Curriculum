@@ -1,0 +1,26 @@
+.Nav{
+    width: auto;
+    height: auto;
+    justify-content:space-around;
+    align-items: center;
+    background-color:rgb(255, 255, 255);
+    display: flex;
+    
+    
+    &__logo{
+    width: 50px;
+    cursor: pointer;
+
+}
+
+}
+.social__logo{
+display: flex;
+    width: 35px;
+    counter-reset: none;
+}
+.LogoyNombre{ 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
