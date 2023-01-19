@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "../Navbar/Navbar";
-import { Link } from "react-router-dom";
+
 
 
 function Experiencia(){

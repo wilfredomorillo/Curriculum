@@ -13,13 +13,12 @@ return(
         <Link to = '/home'><button className="Boton">VAMOS!</button></Link>
         <div>
         <a href="https://www.linkedin.com/in/wilfredo-morillo-92752323b/"
-target='_blank'>
+>
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111368.png" 
 alt="logo_linkedin"
 className="social__logo" />
 </a>
-<a href="https://github.com/wilfredomorillo"
-target='_blank'>
+<a href="https://github.com/wilfredomorillo">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111290.png" 
     alt="logo_github" 
     className="social__logo"/>
